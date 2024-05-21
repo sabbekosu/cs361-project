@@ -59,26 +59,3 @@ stop_microservice()
 The following UML sequence diagram illustrates the interaction between the test script, the file system, and the microservice:
 
 ![UML Sequence Diagram](.\uml_seq.png)
-
-## Mitigation Plan
-
-1. **For which teammate did you implement “Microservice A”?**
-   - Teammate: [Teammate Name or Identifier]
-
-2. **What is the current status of the microservice?**
-   - The microservice is complete and ready for integration.
-
-3. **If the microservice isn’t done, which parts aren’t done and when will they be done?**
-   - N/A
-
-4. **How is your teammate going to access your microservice?**
-   - The code is available on GitHub. They should clone the repository and run the code locally.
-
-5. **If your teammate cannot access/call YOUR microservice, what should they do?**
-   - Contact me via email or messaging app. I am available from 9 AM to 5 PM on weekdays.
-
-6. **If your teammate cannot access/call your microservice, by when do they need to tell you?**
-   - Please inform me at least 48 hours before the deadline.
-
-7. **Is there anything else your teammate needs to know?**
-   - Ensure Python 3.6+ is installed. No additional libraries are required.
